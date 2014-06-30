@@ -14,16 +14,16 @@ flow to help with the development of these data structures.
 For the queue, you will implement the following methods:
 
 * constructor that takes no arguments and creates an empty Queue
-* enqueue(item) - adds an item to the front queue
-* dequeue - returns the item at the end of the queue
+* enqueue(item) - adds an item to the end of the queue
+* dequeue - returns and removes the item at the front of the queue
 * empty? - tells you if the queue is empty or not
 * size - tells you how many items are in the queue
 
 For the stack, you will implement the following methods:
 
 * constructor that takes no arguments and creates an empty Queue
-* push(item) - adds an item to the front queue
-* pop - returns the item at the end of the queue
+* push(item) - adds an item to the end of queue
+* pop - returns and removes the item at the end of the queue
 * empty? - tells you if the queue is empty or not
 * size - tells you how many items are in the queue
 
