@@ -21,11 +21,11 @@ For the queue, you will implement the following methods:
 
 For the stack, you will implement the following methods:
 
-* constructor that takes no arguments and creates an empty Queue
-* push(item) - adds an item to the front queue
-* pop - returns the item at the end of the queue
-* empty? - tells you if the queue is empty or not
-* size - tells you how many items are in the queue
+* constructor that takes no arguments and creates an empty Stack
+* push(item) - adds an item to the front stack
+* pop - returns the item at the end of the stack
+* empty? - tells you if the stack is empty or not
+* size - tells you how many items are in the stack
 
 # Extra
 
